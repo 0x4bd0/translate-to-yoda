@@ -2,7 +2,7 @@
 
 Translate a sentence to yoda's way of speaking,
 
-![](images/yoda.png)
+<img src="images/yoda.png" height="200">
 
 ## Usage
 
