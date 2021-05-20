@@ -5,7 +5,7 @@ Translate a sentence to yoda's way of speaking,
 ## Usage
 
 ```javascript
-npm run yoda This is the way
+npm run yoda this is the way
 ```
 
 ## Contributing
