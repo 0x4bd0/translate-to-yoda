@@ -15,4 +15,5 @@ if( length%2 == 0 ){
     res.push(...data.slice(0,half+1))
 }
 
-console.log(res.join(' '))
+console.log("\x1b[36m", 'Yoda says :')
+console.log("\x1b[32m", res.join(' '))
